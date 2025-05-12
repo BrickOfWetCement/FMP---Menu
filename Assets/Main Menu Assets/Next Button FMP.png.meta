@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: a1fa1e0b0efb8e64bad1d81ed0d80614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1165988604451519826
+    second: Next Button FMP_0
+  - first:
+      213: -3390240042238425140
+    second: Next Button FMP_1
+  - first:
+      213: 3052805639670032923
+    second: Next Button FMP_2
+  - first:
+      213: 4571452665614410935
+    second: Next Button FMP_3
+  - first:
+      213: -3636260322277047726
+    second: Next Button FMP_4
+  - first:
+      213: 2504153278228705420
+    second: Next Button FMP_5
+  - first:
+      213: 8323054060251366700
+    second: Next Button FMP_6
+  - first:
+      213: 1611767294203058472
+    second: Next Button FMP_7
+  - first:
+      213: 4288768404649629280
+    second: Next Button FMP_8
+  - first:
+      213: 322273844655287968
+    second: Next Button FMP_9
+  - first:
+      213: 2579849912563369350
+    second: Next Button FMP_10
+  - first:
+      213: -8002920634538338023
+    second: Next Button FMP_11
+  - first:
+      213: 209530897604528767
+    second: Next Button FMP_12
+  - first:
+      213: 2041606893756550515
+    second: Next Button FMP_13
+  - first:
+      213: 59533538202308889
+    second: Next Button FMP_14
+  - first:
+      213: 4785037433393305544
+    second: Next Button FMP_15
+  - first:
+      213: -7644357358437441471
+    second: Next Button FMP_16
+  - first:
+      213: -8910474500018118107
+    second: Next Button FMP_17
+  - first:
+      213: -8365742839588141628
+    second: Next Button FMP_18
+  - first:
+      213: 2647397836261442520
+    second: Next Button FMP_19
+  - first:
+      213: 1344751500643101792
+    second: Next Button FMP_20
+  - first:
+      213: 5329306301585881830
+    second: Next Button FMP_21
+  - first:
+      213: 7887636208964416618
+    second: Next Button FMP_22
+  - first:
+      213: 4177923662260865260
+    second: Next Button FMP_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Next Button FMP_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2713
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d7c74457c6e2010800000000000000
+      internalID: 1165988604451519826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2713
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c213d4a273f0d0800000000000000
+      internalID: -3390240042238425140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_2
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2713
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a67d80e8ebd5a20800000000000000
+      internalID: 3052805639670032923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_3
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 2713
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a5719aff017f30800000000000000
+      internalID: 4571452665614410935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_4
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2713
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25244dba088698dc0800000000000000
+      internalID: -3636260322277047726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2073
+        width: 510
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b3f3932a80c220800000000000000
+      internalID: 2504153278228705420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2067
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c7a3029d618370800000000000000
+      internalID: 8323054060251366700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_7
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2067
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d09780d52e5610800000000000000
+      internalID: 1611767294203058472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_8
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 2067
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0665f032424c48b30800000000000000
+      internalID: 4288768404649629280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_9
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2067
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee31faa52f87400800000000000000
+      internalID: 322273844655287968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1427
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685892ca3d77dc320800000000000000
+      internalID: 2579849912563369350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1427
+        width: 517
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919d2bc851aefe090800000000000000
+      internalID: -8002920634538338023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_12
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1394
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acf21cd3768e200800000000000000
+      internalID: 209530897604528767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_13
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1394
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d095927ae355c10800000000000000
+      internalID: 2041606893756550515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_14
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1394
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91155c4007183d000800000000000000
+      internalID: 59533538202308889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 754
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7da56813ed76240800000000000000
+      internalID: 4785037433393305544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_16
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 754
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140613aeb79c9e590800000000000000
+      internalID: -7644357358437441471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_17
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 754
+        width: 524
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5226e36e6a2a75480800000000000000
+      internalID: -8910474500018118107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_18
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 748
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c4140639e6eb80800000000000000
+      internalID: -8365742839588141628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_19
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 748
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d340893e427db420800000000000000
+      internalID: 2647397836261442520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 108
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c61037d5489a210800000000000000
+      internalID: 1344751500643101792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 108
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaf64d68df75f940800000000000000
+      internalID: 5329306301585881830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_22
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 108
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6435d07753867d60800000000000000
+      internalID: 7887636208964416618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next Button FMP_23
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 108
+        width: 528
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce802cb6f67faf930800000000000000
+      internalID: 4177923662260865260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 8c78460b0a45b564bb2c85a595a9a467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5500235568336328430
+    second: X Button FMP_0
+  - first:
+      213: 811978101298461758
+    second: X Button FMP_1
+  - first:
+      213: 7180627551985132184
+    second: X Button FMP_2
+  - first:
+      213: 2854520524901697530
+    second: X Button FMP_3
+  - first:
+      213: 1679015183642143560
+    second: X Button FMP_4
+  - first:
+      213: -857118450205709645
+    second: X Button FMP_5
+  - first:
+      213: -3334235583984124726
+    second: X Button FMP_6
+  - first:
+      213: 49150921980006151
+    second: X Button FMP_7
+  - first:
+      213: -4349683102824033701
+    second: X Button FMP_8
+  - first:
+      213: 1989838710667551129
+    second: X Button FMP_9
+  - first:
+      213: 3448645405418362204
+    second: X Button FMP_10
+  - first:
+      213: -542101343510135652
+    second: X Button FMP_11
+  - first:
+      213: -535305624594032511
+    second: X Button FMP_12
+  - first:
+      213: -1361171086153501215
+    second: X Button FMP_13
+  - first:
+      213: -1639302704620194416
+    second: X Button FMP_14
+  - first:
+      213: 1597940703082906528
+    second: X Button FMP_15
+  - first:
+      213: 5974525114882983158
+    second: X Button FMP_16
+  - first:
+      213: -3282131829389898311
+    second: X Button FMP_17
+  - first:
+      213: 7743892402859875373
+    second: X Button FMP_18
+  - first:
+      213: -2469630548437472616
+    second: X Button FMP_19
+  - first:
+      213: 8262582659683745847
+    second: X Button FMP_20
+  - first:
+      213: -871285596927989497
+    second: X Button FMP_21
+  - first:
+      213: 6469401512690804585
+    second: X Button FMP_22
+  - first:
+      213: 1341194202446606960
+    second: X Button FMP_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X Button FMP_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1799
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d7af9b13c45c40800000000000000
+      internalID: 5500235568336328430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1799
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c7a45f7c9b44b00800000000000000
+      internalID: 811978101298461758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1799
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e474c6b6b6a360800000000000000
+      internalID: 7180627551985132184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1799
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7c3d22b4b4d9720800000000000000
+      internalID: 2854520524901697530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_4
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1799
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b2a79e96f0d4710800000000000000
+      internalID: 1679015183642143560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1376
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2e0d8f47ea14f0800000000000000
+      internalID: -857118450205709645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1343
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb823e66a6ab1d0800000000000000
+      internalID: -3334235583984124726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1343
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f400dc08e9ea000800000000000000
+      internalID: 49150921980006151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_8
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1343
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5297aa7342d2a3c0800000000000000
+      internalID: -4349683102824033701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_9
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1343
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99129a5c3c35d9b10800000000000000
+      internalID: 1989838710667551129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 920
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559e3a79bc0cdf20800000000000000
+      internalID: 3448645405418362204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 920
+        width: 255
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf0d343b11a78f0800000000000000
+      internalID: -542101343510135652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 913
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ddcfde563298f0800000000000000
+      internalID: -535305624594032511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_13
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 913
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5b943eb162c1de0800000000000000
+      internalID: -1361171086153501215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_14
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 913
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095b6c320e60049e0800000000000000
+      internalID: -1639302704620194416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 490
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3056b6a960d2610800000000000000
+      internalID: 1597940703082906528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 490
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4004600f6c9e250800000000000000
+      internalID: 5974525114882983158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_17
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 490
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd463b9d768372d0800000000000000
+      internalID: -3282131829389898311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_18
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 497
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1f4b8c15d77b60800000000000000
+      internalID: 7743892402859875373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_19
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 497
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6ee1d91c1abdd0800000000000000
+      internalID: -2469630548437472616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 74
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73080c5e6279aa270800000000000000
+      internalID: 8262582659683745847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_21
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 74
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7096139ad5298e3f0800000000000000
+      internalID: -871285596927989497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 74
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9676f41466ee7c950800000000000000
+      internalID: 6469401512690804585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X Button FMP_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 74
+        width: 288
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072b4ab6501ec9210800000000000000
+      internalID: 1341194202446606960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

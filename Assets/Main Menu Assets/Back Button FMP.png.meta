@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: e6427add200fdbf4289b39e663826a6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4366930759313204995
+    second: Back Button FMP_0
+  - first:
+      213: -835460640522864097
+    second: Back Button FMP_1
+  - first:
+      213: 3262086411907061648
+    second: Back Button FMP_2
+  - first:
+      213: 1066558178345672636
+    second: Back Button FMP_3
+  - first:
+      213: -8510216766935871798
+    second: Back Button FMP_4
+  - first:
+      213: 6428205603629394278
+    second: Back Button FMP_5
+  - first:
+      213: -8972689048957462087
+    second: Back Button FMP_6
+  - first:
+      213: 3182150959402940116
+    second: Back Button FMP_7
+  - first:
+      213: 9009530409623580971
+    second: Back Button FMP_8
+  - first:
+      213: -8071687083550196208
+    second: Back Button FMP_9
+  - first:
+      213: -8855861511526321362
+    second: Back Button FMP_10
+  - first:
+      213: 1126020549394763178
+    second: Back Button FMP_11
+  - first:
+      213: -2348747033996733714
+    second: Back Button FMP_12
+  - first:
+      213: 6556414712545413678
+    second: Back Button FMP_13
+  - first:
+      213: -1072745609990821031
+    second: Back Button FMP_14
+  - first:
+      213: -112680213574951297
+    second: Back Button FMP_15
+  - first:
+      213: 1785713755166384530
+    second: Back Button FMP_16
+  - first:
+      213: -3569610784621158943
+    second: Back Button FMP_17
+  - first:
+      213: -3261723574613882908
+    second: Back Button FMP_18
+  - first:
+      213: -5714015634923682139
+    second: Back Button FMP_19
+  - first:
+      213: -8864672885124001189
+    second: Back Button FMP_20
+  - first:
+      213: -5068473750269770216
+    second: Back Button FMP_21
+  - first:
+      213: 4925774338362369504
+    second: Back Button FMP_22
+  - first:
+      213: -8094167127708258359
+    second: Back Button FMP_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back Button FMP_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2688
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d8648c9b8563c0800000000000000
+      internalID: -4366930759313204995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2688
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a70d159f8d764f0800000000000000
+      internalID: -835460640522864097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2688
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975950fe42454d20800000000000000
+      internalID: 3262086411907061648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_3
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2688
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd498230d2dce00800000000000000
+      internalID: 1066558178345672636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_4
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2688
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec63580f2a5e980800000000000000
+      internalID: -8510216766935871798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2048
+        width: 482
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669618b30f2953950800000000000000
+      internalID: 6428205603629394278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2040
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95adc69da9a7380800000000000000
+      internalID: -8972689048957462087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_7
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2040
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d671e41075492c20800000000000000
+      internalID: 3182150959402940116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_8
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 2040
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2171ba4c28480d70800000000000000
+      internalID: 9009530409623580971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_9
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2040
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb1e6fc5b9bff80800000000000000
+      internalID: -8071687083550196208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1400
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237b6920e8a91580800000000000000
+      internalID: -8855861511526321362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1400
+        width: 502
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad077849bd60af00800000000000000
+      internalID: 1126020549394763178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_12
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1403
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25f5b4403976fd0800000000000000
+      internalID: -2348747033996733714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_13
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1403
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0a6591701dfa50800000000000000
+      internalID: 6556414712545413678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_14
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1403
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b23262d87dc11f0800000000000000
+      internalID: -1072745609990821031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 763
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e56a851fdaf6ef0800000000000000
+      internalID: -112680213574951297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_16
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 763
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a83ff23128c810800000000000000
+      internalID: 1785713755166384530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_17
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 763
+        width: 507
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed904c67e1367ec0800000000000000
+      internalID: -3569610784621158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_18
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 759
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74f93b0b70cb2d0800000000000000
+      internalID: -3261723574613882908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_19
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 759
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6885fdd0db3b0b0800000000000000
+      internalID: -5714015634923682139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5295206afa5af480800000000000000
+      internalID: -8864672885124001189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_21
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 119
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81647c16af929a9b0800000000000000
+      internalID: -5068473750269770216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_22
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 119
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e2d1b9addb5440800000000000000
+      internalID: 4925774338362369504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Button FMP_23
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 119
+        width: 523
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf2e40d1edbbaf80800000000000000
+      internalID: -8094167127708258359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
